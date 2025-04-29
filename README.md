@@ -62,7 +62,7 @@ Um funcionário realizava todo o procedimento manualmente, incluindo login no si
 /automacao_stl/
 │
 ├── main.py                # Arquivo principal que inicia a automação
-├── config.py              # Configurações do projeto (credenciais, URLs, etc.)
+├── images/                # Imagens utilizadas para localizar elementos com PyAutoGui
 ├── pages/
 │   ├── __init__.py
 │   ├── login_page.py      # Página de login do sistema
